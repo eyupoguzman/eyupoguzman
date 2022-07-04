@@ -11,7 +11,8 @@ I'm Eyup. I'm a Front-End Developer and living now in Eskisehir, Turkey. I'm alw
 Before coding, one of my passion is connecting with people. You can reach me from my linkedin or github accounts. Don't be surprised, it's just what I love doing!
 
 <b>Connect with me:</b>
-  <img src="https://svgshare.com/i/ioZ.svg" width="48" height="48">
+
+<img src="https://svgshare.com/i/ioZ.svg" width="48" height="48">
 
 <b>Technologies:</b>
 
