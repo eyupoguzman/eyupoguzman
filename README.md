@@ -39,6 +39,10 @@ Before coding, one of my passion is connecting with people. You can reach me fro
 
 <b>Tools:</b>
 
+<a href="https://code.visualstudio.com/">
+<img src="https://svgshare.com/i/ipL.svg" width="48" height="48">
+</a>
+
 
 <!---
 eyupoguzman/eyupoguzman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
