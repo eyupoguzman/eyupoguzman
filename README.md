@@ -42,6 +42,13 @@ Before coding, one of my passion is connecting with people. You can reach me fro
 <a href="https://code.visualstudio.com/">
 <img src="https://svgshare.com/i/ipL.svg" width="48" height="48">
 </a>
+<a href="https://code.visualstudio.com/">
+<img src="https://svgshare.com/i/ipL.svg" width="48" height="48">
+</a>
+<a href="https://www.discord.com/">
+<img src="https://svgshare.com/i/ipr.svg" width="48" height="48">
+</a>
+
 
 
 <!---
