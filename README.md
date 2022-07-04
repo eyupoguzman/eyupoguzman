@@ -1,10 +1,7 @@
 # Hi there! 👋️
 
 
-I'm Eyup. I'm a Front-End Developer and living now in Eskisehir, Turkey. I'm always working on a improve myself in web development technologies.
-
-
-- 👋 Hi, I’m @eyupoguzman
+- 👋️ I'm Eyup. I'm a Front-End Developer and living now in Eskisehir, Turkey. I'm always working on a improve myself in web development technologies.
 - 🌱 I’m currently learning Frontend Web Development with React.js, JavaScript technologies.
 - 📫 How to reach me: eyupoguzman38@gmail.com
 
