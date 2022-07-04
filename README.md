@@ -28,9 +28,13 @@ Before coding, one of my passion is connecting with people. You can reach me fro
 <a href="https://getbootstrap.com/">
 <img src="https://svgshare.com/i/iqd.svg" width="48" height="48">
 </a>
-<a href="">
-<img src="https://svgshare.com/i/iqd.svg" width="48" height="48">
+<a href="https://www.w3schools.com/html/">
+<img src="https://i.ibb.co/1LFyfdb/icons8-html-filetype-64.png" width="48" height="48">
 </a>
+<a href="https://www.w3schools.com/css/">
+<img src="https://i.ibb.co/LhrNvz7/icons8-css-filetype-64.png" width="48" height="48">
+</a>
+
 
 
 <b>Tools:</b>
