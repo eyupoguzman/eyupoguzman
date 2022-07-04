@@ -1,4 +1,4 @@
-Hi there!
+# Hi there! 👋️
 
 
 I'm Eyup. I'm a Front-End Developer by passion and living now in Eskisehir, Turkey. I'm always working on a improve myself in web development technologies.
@@ -17,6 +17,7 @@ Technologies:
 
 
 Tools:
+
 
 <!---
 eyupoguzman/eyupoguzman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
