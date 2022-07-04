@@ -9,14 +9,14 @@ I'm Eyup. I'm a Front-End Developer and living now in Eskisehir, Turkey. I'm alw
 - 📫 How to reach me: eyupoguzman38@gmail.com
 
 Before coding, one of my passion is connecting with people. You can reach me from my linkedin or github accounts. Don't be surprised, it's just what I love doing!
-Connect with me:
+
+<b>Connect with me:</b>
 
 
+<b>Technologies:</b>
 
-Technologies:
 
-
-Tools:
+<b>Tools:</b>
 
 
 <!---
