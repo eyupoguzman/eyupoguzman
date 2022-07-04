@@ -1,7 +1,7 @@
 # Hi there! 👋️
 
 
-I'm Eyup. I'm a Front-End Developer by passion and living now in Eskisehir, Turkey. I'm always working on a improve myself in web development technologies.
+I'm Eyup. I'm a Front-End Developer and living now in Eskisehir, Turkey. I'm always working on a improve myself in web development technologies.
 
 
 - 👋 Hi, I’m @eyupoguzman
