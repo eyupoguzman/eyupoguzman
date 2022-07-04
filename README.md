@@ -46,6 +46,8 @@ Before coding, one of my passion is connecting with people. You can reach me fro
 <img src="https://svgshare.com/i/ipr.svg" width="48" height="48">
 </a>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eyupoguzman)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 <!---
